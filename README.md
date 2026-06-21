@@ -1,2 +1,14 @@
 # pgsoftroyal-guide
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 结构说明
+
+- 根目录用于存放发布页面
+- 仓库说明用于辅助识别用途
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
